@@ -17,4 +17,4 @@ Welcome to the Pokémon Databas and Search App! This project allows users to sea
 - **Pokémon API**: For fetching Pokémon data and images.
 
 ## Technologies Used
-- Live Demo here : https://yashmankar1812.github.io/Pokemon/
+- Live Demo here : https://pokeemonnapp.netlify.app/
